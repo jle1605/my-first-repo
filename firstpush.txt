@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 This is my first line
 
 This is my second line added
 
 Third line added.
+=======
+This is my first line
+>>>>>>> parent of 3ef91c9 (added second line)
